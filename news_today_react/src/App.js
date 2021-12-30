@@ -2,7 +2,6 @@
 import './App.css';
 
 // Importamos nuestros componentes
-import Card from "./components/Card";
 import Footer from "./components/Footer";
 import Form from "./components/Form";
 import Header from "./components/Header";
@@ -15,7 +14,6 @@ function App() {
   return (
     <div className="App">
         {/* Borramos lo contenido en este div y llamamos a los componentes previamente importados */}
-        <Card/>
         <Footer/>
         <Form/>
         <Header/>
