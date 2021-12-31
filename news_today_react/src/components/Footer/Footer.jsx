@@ -6,7 +6,7 @@ export class footer extends Component {
         return (
             // Renombramos div con el nombre del componente, en este caso, footer
             <footer>
-                <p>Esto es el footer</p>
+                <p>Esto es <strong>Footer</strong></p>
             </footer>
         )
     }

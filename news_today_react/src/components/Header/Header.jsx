@@ -6,7 +6,7 @@ export class header extends Component {
         return (
             // Renombramos div con el nombre del componente, en este caso, header
             <header>
-                <p>Esto es el header</p>
+                <p>Esto es <strong>Header</strong></p>
             </header>
         )
     }

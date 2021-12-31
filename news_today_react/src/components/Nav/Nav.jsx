@@ -6,7 +6,7 @@ export class nav extends Component {
         return (
             // Renombramos div con el nombre del componente, en este caso, nav
             <nav>
-                <p>Esto es el nav</p>
+                <p>Esto es <strong>Nav</strong></p>
             </nav>
         )
     }

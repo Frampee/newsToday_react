@@ -6,7 +6,7 @@ export class form extends Component {
         return (
             // Renombramos div con el nombre del componente, en este caso, form
             <form>
-                <p>Esto es el form</p>
+                <p>Esto es <strong>Form</strong></p>
             </form>
         )
     }

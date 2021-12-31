@@ -6,7 +6,7 @@ export class home extends Component {
         return (
             // Renombramos div con el nombre del componente, en este caso, home
             <home>
-                <p>Esto es el home</p>
+                <p>Esto es <strong>Home</strong></p>
             </home>
         )
     }
