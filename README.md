@@ -46,8 +46,9 @@ NOTA: Si necesitas añadir algún componente más, feel free!
 2. cd news_today_react (nos metemos dentro del proyecto que nos crea)
 3. npm start (lo inicializamos)
 4. Crear una carpeta "components" dentro de "src".
-5. Dentro de esta carpeta meter los componentes capitalizados.
-
-
-
-
+5. Dentro de esta carpeta meter los componentes capitalizados:
+    - Abrir "Split Terminal"
+    - zsh
+    - npm install --save-dev create-react-component-folder
+    - cd news_today_react/src/components
+    - npx crcf -j -f Card Footer Form Header Home List_news Main Nav
