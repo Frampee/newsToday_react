@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+// Importamos normalize previamente instalado (npm install normalize.css)
+import 'normalize.css'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
