@@ -4,10 +4,9 @@ import React, { Component } from 'react'
 export class nav extends Component {
     render() {
         return (
-            // Renombramos div con el nombre del componente, en este caso, nav
-            <nav>
+            <div>
                 <p>Esto es <strong>Nav</strong></p>
-            </nav>
+            </div>
         )
     }
 }
